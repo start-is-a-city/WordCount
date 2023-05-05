@@ -1,0 +1,3 @@
+﻿  WordCount.c
+D:\vs （visual studio）\ConsoleApplication1\WordCount.c(59,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> D:\vs （visual studio）\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
